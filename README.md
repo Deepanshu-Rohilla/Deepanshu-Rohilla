@@ -1,12 +1,8 @@
-### Hi there 👋
-- 🔭 I’m currently working on academics 📚
-- 🌱 I’m currently learning java
-- 👯 I’m looking to collaborate on flutter
-- 🤔 I’m looking for help with python modules
-- 💬 Ask me about my projects
-- 📫 How to reach me:    [Mail](mailto:deepanshu38841@gmail.com),  [LinkedIn](https://www.linkedin.com/in/deepanshu-rohilla-418940188/),  [Instagram - @deepanshu__rohilla](https://www.instagram.com/deepanshu__rohilla/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Born 69 days after 12 Jan 2002
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
+
+<div align="center">
 
 ![](https://Deepanshu-Rohilla-visitor-badge.glitch.me/badge?page_id=Deepanshu-Rohilla.Deepanshu-Rohilla)
 
