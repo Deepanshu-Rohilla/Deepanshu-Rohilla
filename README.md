@@ -25,6 +25,10 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Deepanshu-Rohilla&count_private=true&hide=html,css,Makefile&layout=compact&langs_count=10&theme=algolia"/>
   </a>
 </p>
+	
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Deepanshu-Rohilla)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Deepanshu-Rohilla) 
 
 ##
 <p align="center"> 
